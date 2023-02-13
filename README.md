@@ -43,6 +43,8 @@ Online and offline text and code editing.
     $ npm start
 ```
 
+## Credit
+Stalla Ling @https://github.com/stellalph for her readme file about this app.  
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
